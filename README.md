@@ -22,15 +22,15 @@ Department of Computing, Rajarata University of Sri Lanka
 
 <table>
   <tr>
-    <td width="50%"><b>Login</b><br><img src="docs/screenshots/01-login.png" alt="Login screen"></td>
-    <td width="50%"><b>Dashboard</b><br><img src="docs/screenshots/02-dashboard.png" alt="Dashboard"></td>
+    <td width="50%"><b>Login</b><br><img src="Doc/01-login.png01-login.png" alt="Login screen"></td>
+    <td width="50%"><b>Dashboard</b><br><img src="Doc/02-dashboard.png" alt="Dashboard"></td>
   </tr>
   <tr>
-    <td width="50%"><b>Car Management</b><br><img src="docs/screenshots/03-car-management.png" alt="Car management"></td>
-    <td width="50%"><b>Customer Management</b><br><img src="docs/screenshots/04-customer-management.png" alt="Customer management"></td>
+    <td width="50%"><b>Car Management</b><br><img src="Doc/03-car-management.png" alt="Car management"></td>
+    <td width="50%"><b>Customer Management</b><br><img src="Doc/04-customer-management.png" alt="Customer management"></td>
   </tr>
   <tr>
-    <td width="50%"><b>Payments / Billing</b><br><img src="docs/screenshots/05-payments.png" alt="Payments"></td>
+    <td width="50%"><b>Payments / Billing</b><br><img src="Doc/05-payments.png" alt="Payments"></td>
     <td width="50%"></td>
   </tr>
 </table>
