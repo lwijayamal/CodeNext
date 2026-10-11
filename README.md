@@ -37,7 +37,7 @@ Department of Computing, Rajarata University of Sri Lanka
 
 ## 🎥 Demo video
 
-▶️ **[Watch the 5-minute demo on YouTube](https://youtube.com/REPLACE_WITH_YOUR_UNLISTED_LINK)**
+▶️ **[Watch the 5-minute demo on YouTube](https://youtube.com/@propixlk?si=Xd8hwVUlOSACyApk)**
 
 ## ✨ Features
 
