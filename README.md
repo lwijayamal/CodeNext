@@ -11,7 +11,7 @@ Manage cars, customers, rentals, payments, maintenance, employees and suppliers 
 ![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2026-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-**ICT 1306 – Object Oriented Programming · Group Assignment**
+**ICT 1306 – Object Oriented Programming · Group Assignment**<br>
 Department of Computing, Rajarata University of Sri Lanka
 
 </div>
