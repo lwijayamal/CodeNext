@@ -1,1 +1,0 @@
-Copy MySql.Data.dll (and the other DLLs from the Connector/NET 'Assemblies' folder) into this folder.
