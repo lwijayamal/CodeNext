@@ -20,7 +20,7 @@ namespace RentXpress {
 		static Db()
 		{
 			// >>> CHANGE user / password to your MySQL account <<<
-			ConnStr = "server=localhost;port=3306;user=root;Pwd=YOUR_PASSWORD;database=rentxpress;";
+			ConnStr = "server=localhost;port=3306;user=root;Pwd=admin;database=rentxpress;";
 		}
 		// SELECT -> DataTable.   Use @p0, @p1 ... as parameters
 		static DataTable^ Query(String^ sql, ... array<Object^>^ args)

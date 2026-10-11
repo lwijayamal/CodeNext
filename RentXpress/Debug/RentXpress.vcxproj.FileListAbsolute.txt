@@ -1,0 +1,15 @@
+E:\RentXpress\Debug\MySql.Data.dll
+E:\RentXpress\RentXpress\Debug\RentXpress.vcxproj.AssemblyReference.cache
+E:\RentXpress\RentXpress\Debug\RentXpress.CarPage.resources
+E:\RentXpress\RentXpress\Debug\RentXpress.CustomerPage.resources
+E:\RentXpress\RentXpress\Debug\RentXpress.EmployeePage.resources
+E:\RentXpress\RentXpress\Debug\RentXpress.SupplierPage.resources
+E:\RentXpress\RentXpress\Debug\RentXpress.PaymentPage.resources
+E:\RentXpress\RentXpress\Debug\RentXpress.MaintenancePage.resources
+E:\RentXpress\RentXpress\Debug\RentXpress.RentalPage.resources
+E:\RentXpress\RentXpress\Debug\RentXpress.DashboardPage.resources
+E:\RentXpress\RentXpress\Debug\RentXpress.LoginForm.resources
+E:\RentXpress\RentXpress\Debug\RentXpress.ProfileForm.resources
+E:\RentXpress\RentXpress\Debug\RentXpress.MainForm.resources
+E:\RentXpress\RentXpress\Debug\RentXpress.vcxproj.GenerateResource.cache
+E:\RentXpress\RentXpress\Debug\RentXpre.37D8263E.Up2Date

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "RentXpress\\Debug\\Theme.obj",
+            "outputs": [
+                "RentXpress\\Debug\\Theme.h.obj.dt.module.json",
+                "RentXpress\\Debug\\Theme.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
