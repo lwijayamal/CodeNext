@@ -34,7 +34,7 @@ Department of Computing, Rajarata University of Sri Lanka
     <td width="50%"></td>
   </tr>
   <tr>
-    <td width="50%"><b>Rental (Booking) Management</b><br><img src="Doc/Rental(Booking)Management" alt="Payments"></td>
+    <td width="50%"><b>Rental (Booking) Management</b><br><img src="Doc/Rental(Booking)Management" alt="Rental"></td>
     <td width="50%"></td>
   </tr>
 </table>
