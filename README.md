@@ -58,7 +58,7 @@ All seven record types support full **Add / View / Update / Delete** with live s
 
 ## 🧱 Object-Oriented Design
 
-All six OOP concepts are demonstrated in [`Entities.h`](RentXpress/Entities.h) and the page classes.
+All six OOP concepts and the page classes.
 
 | Concept | Where it is used |
 |---|---|
@@ -153,7 +153,7 @@ erDiagram
 
 ### 2. Create the database
 1. Open **MySQL Workbench** and connect as `root`.
-2. **File → Open SQL Script…** → [`database/rentxpress.sql`](database/rentxpress.sql) → click ⚡ *Execute*.
+2. **File → Open SQL Script…** → [`Doc/database.sql`](Doc/database.sql) → click ⚡ *Execute*.
 
 ### 3. Configure the project
 1. Clone the repo:
