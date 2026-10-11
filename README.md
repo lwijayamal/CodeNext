@@ -2,7 +2,7 @@
 
 # 🚗 RentXpress
 
-### A desktop car rental management system
+### A Car Rental Management System
 
 Manage cars, customers, rentals, payments, maintenance, employees and suppliers from one clean dark-themed dashboard.
 
