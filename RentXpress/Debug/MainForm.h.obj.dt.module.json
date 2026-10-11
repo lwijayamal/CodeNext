@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "RentXpress\\Debug\\MainForm.obj",
+            "outputs": [
+                "RentXpress\\Debug\\MainForm.h.obj.dt.module.json",
+                "RentXpress\\Debug\\MainForm.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

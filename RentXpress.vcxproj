@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32"><Configuration>Debug</Configuration><Platform>Win32</Platform></ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32"><Configuration>Release</Configuration><Platform>Win32</Platform></ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{6F1D2C4A-9B7E-4C55-A1F3-2D8B7E9C1A10}</ProjectGuid>
+    <Keyword>ManagedCProj</Keyword>
+    <RootNamespace>RentXpress</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v145</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v145</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks><PrecompiledHeader>NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <EntryPointSymbol>main</EntryPointSymbol>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <PreprocessorDefinitions>WIN32;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <EntryPointSymbol>main</EntryPointSymbol>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="MySql.Data">
+      <HintPath>lib\MySql.Data.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Db.h" />
+    <ClInclude Include="Models.h" />
+    <ClInclude Include="Theme.h" />
+    <ClInclude Include="CarPage.h"><FileType>CppForm</FileType></ClInclude>
+    <ClInclude Include="CustomerPage.h"><FileType>CppForm</FileType></ClInclude>
+    <ClInclude Include="EmployeePage.h"><FileType>CppForm</FileType></ClInclude>
+    <ClInclude Include="SupplierPage.h"><FileType>CppForm</FileType></ClInclude>
+    <ClInclude Include="PaymentPage.h"><FileType>CppForm</FileType></ClInclude>
+    <ClInclude Include="MaintenancePage.h"><FileType>CppForm</FileType></ClInclude>
+    <ClInclude Include="RentalPage.h"><FileType>CppForm</FileType></ClInclude>
+    <ClInclude Include="DashboardPage.h"><FileType>CppForm</FileType></ClInclude>
+    <ClInclude Include="LoginForm.h"><FileType>CppForm</FileType></ClInclude>
+    <ClInclude Include="ProfileForm.h"><FileType>CppForm</FileType></ClInclude>
+    <ClInclude Include="MainForm.h"><FileType>CppForm</FileType></ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="RentXpress.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CarPage.resx"><DependentUpon>CarPage.h</DependentUpon></EmbeddedResource>
+    <EmbeddedResource Include="CustomerPage.resx"><DependentUpon>CustomerPage.h</DependentUpon></EmbeddedResource>
+    <EmbeddedResource Include="EmployeePage.resx"><DependentUpon>EmployeePage.h</DependentUpon></EmbeddedResource>
+    <EmbeddedResource Include="SupplierPage.resx"><DependentUpon>SupplierPage.h</DependentUpon></EmbeddedResource>
+    <EmbeddedResource Include="PaymentPage.resx"><DependentUpon>PaymentPage.h</DependentUpon></EmbeddedResource>
+    <EmbeddedResource Include="MaintenancePage.resx"><DependentUpon>MaintenancePage.h</DependentUpon></EmbeddedResource>
+    <EmbeddedResource Include="RentalPage.resx"><DependentUpon>RentalPage.h</DependentUpon></EmbeddedResource>
+    <EmbeddedResource Include="DashboardPage.resx"><DependentUpon>DashboardPage.h</DependentUpon></EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx"><DependentUpon>LoginForm.h</DependentUpon></EmbeddedResource>
+    <EmbeddedResource Include="ProfileForm.resx"><DependentUpon>ProfileForm.h</DependentUpon></EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx"><DependentUpon>MainForm.h</DependentUpon></EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+</Project>

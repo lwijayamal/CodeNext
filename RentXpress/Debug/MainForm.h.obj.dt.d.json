@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\rentxpress\\mainform.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "e:\\rentxpress\\db.h",
+            "e:\\rentxpress\\theme.h",
+            "e:\\rentxpress\\profileform.h",
+            "e:\\rentxpress\\models.h",
+            "e:\\rentxpress\\dashboardpage.h",
+            "e:\\rentxpress\\carpage.h",
+            "e:\\rentxpress\\customerpage.h",
+            "e:\\rentxpress\\rentalpage.h",
+            "e:\\rentxpress\\paymentpage.h",
+            "e:\\rentxpress\\maintenancepage.h",
+            "e:\\rentxpress\\employeepage.h",
+            "e:\\rentxpress\\supplierpage.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

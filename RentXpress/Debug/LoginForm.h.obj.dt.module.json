@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "RentXpress\\Debug\\LoginForm.obj",
+            "outputs": [
+                "RentXpress\\Debug\\LoginForm.h.obj.dt.module.json",
+                "RentXpress\\Debug\\LoginForm.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
