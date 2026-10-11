@@ -162,5 +162,5 @@ Released under the [Report](REPORT).
 ---
 
 <div align="center">
-Made for <b>ICT 1306 – Object Oriented Programming</b><br> · Team Code Next | 2026·
+Made for <b>ICT 1306 – Object Oriented Programming</b><br> · Team Code Next | 2026 ·
 </div>
