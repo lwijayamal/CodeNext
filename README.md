@@ -22,7 +22,7 @@ Department of Computing, Rajarata University of Sri Lanka
 
 <table>
   <tr>
-    <td width="50%"><b>Login</b><br><img src="Doc/01-login.png01-login.png" alt="Login screen"></td>
+    <td width="50%"><b>Login</b><br><img src="Doc/01-login.png" alt="Login screen"></td>
     <td width="50%"><b>Dashboard</b><br><img src="Doc/02-dashboard.png" alt="Dashboard"></td>
   </tr>
   <tr>
