@@ -148,71 +148,8 @@ erDiagram
 - **Database:** MySQL 8 via MySQL Connector/NET (`MySql.Data`)
 - **IDE:** Visual Studio 2026
 
-## 🚀 Getting started
 
-### 1. Prerequisites
-- Visual Studio 2026 with **Desktop development with C++** and the components **C++/CLI support** and **.NET Framework 4.8 SDK / targeting pack**
-- MySQL Server 8 and MySQL Workbench
-- MySQL Connector/NET (`MySql.Data.dll`)
-
-### 2. Create the database
-1. Open **MySQL Workbench** and connect as `root`.
-2. **File → Open SQL Script…** → [`Doc/database.sql`](Doc/database.sql) → click ⚡ *Execute*.
-
-### 3. Configure the project
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/RentXpress.git
-   ```
-2. Copy `MySql.Data.dll` (and the DLLs beside it) into [`RentXpress/libs/`](RentXpress/libs/README.md).
-3. Open [`RentXpress/Db.h`](RentXpress/Db.h) and replace `YOUR_PASSWORD` with your MySQL root password.
-
-### 4. Run
-1. Open **`RentXpress.sln`**.
-2. Select **Debug · x64** and press **Ctrl + F5**.
-
-### Default login
-
-| Username | Password |
-|---|---|
-| `admin` | `admin123` |
-
-> ⚠️ Change the password from **My Profile** after the first login.
-
-## 🗂 Project structure
-
-```
-RentXpress/
-├── RentXpress.sln
-├── database/
-│   └── rentxpress.sql          # schema + sample data
-├── docs/
-│   └── screenshots/            # images used in this README
-└── RentXpress/
-    ├── Main.cpp                # entry point: Login → Main → Logout loop
-    ├── Entities.h              # OOP model: Person, Customer, Employee, Supplier
-    ├── Db.h                    # MySQL access (parameterised queries)
-    ├── Theme.h                 # colours + UI helper functions
-    ├── LoginForm.h / .resx     # screen 1 – login
-    ├── MainForm.h  / .resx     # screen 2 – sidebar navigation shell
-    ├── DashboardPage.h / .resx
-    ├── CarPage.h       / .resx
-    ├── CustomerPage.h  / .resx
-    ├── RentalPage.h    / .resx
-    ├── PaymentPage.h   / .resx
-    ├── MaintenancePage.h / .resx
-    ├── EmployeePage.h  / .resx
-    ├── SupplierPage.h  / .resx
-    ├── ProfilePage.h   / .resx
-    └── libs/               # put MySql.Data.dll here
-```
-
-## 🔒 Security notes
-- Passwords are stored as **SHA-256 hashes**, never as plain text.
-- All SQL uses **parameterised queries** to prevent SQL injection.
-- Never commit your real MySQL password – keep `YOUR_PASSWORD` in `Db.h` in the repository.
-
-## 👥 Team
+<!--## 👥 Team
 
 | Name | Index No. | Role |
 |---|---|---|
@@ -220,14 +157,14 @@ RentXpress/
 | _Member 2_ | _XX/XXXX_ | _e.g. Login & Main form_ |
 | _Member 3_ | _XX/XXXX_ | _e.g. Car & Customer modules_ |
 | _Member 4_ | _XX/XXXX_ | _e.g. Rental & Payment modules_ |
-| _Member 5_ | _XX/XXXX_ | _e.g. Maintenance, Employee & Supplier modules_ |
+| _Member 5_ | _XX/XXXX_ | _e.g. Maintenance, Employee & Supplier modules_ |-->
 
-## 📄 License
+## 📄 Report
 
-Released under the [MIT License](LICENSE).
+Released under the [Report](REPORT).
 
 ---
 
 <div align="center">
-Made for <b>ICT 1306 – Object Oriented Programming</b> · Rajarata University of Sri Lanka
+Made for <b>ICT 1306 – Object Oriented Programming</b><br> · Team Code Next | 2026·
 </div>
