@@ -154,9 +154,9 @@ erDiagram
 | _Member 4_ | _XX/XXXX_ | _e.g. Rental & Payment modules_ |
 | _Member 5_ | _XX/XXXX_ | _e.g. Maintenance, Employee & Supplier modules_ |-->
 
-## 📄 Report
+## 📄 Documentation
 
-Released under the [Report](REPORT).
+See more details on the [Report](https://drive.google.com/uc?export=download&id=YOUR_FILE_ID).
 
 ---
 
