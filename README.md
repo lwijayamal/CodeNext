@@ -4,7 +4,7 @@
 
 ### A Car Rental Management System
 
-Manage cars, customers, rentals, payments, maintenance, employees and suppliers from one clean dark-themed dashboard.
+Manage cars, customers, rentals, payments, maintenance, employees and suppliers from one clean dashboard.
 
 ![C++/CLI](https://img.shields.io/badge/C%2B%2B%2FCLI-.NET%20Framework%204.8-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-Designer%20Ready-0078D4?style=for-the-badge&logo=windows&logoColor=white)
