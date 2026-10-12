@@ -21,16 +21,16 @@ Manage cars, customers, rentals, payments, maintenance, employees and suppliers 
 
 <table>
   <tr>
-    <td width="50%"><b>Login</b><br><img src="Doc/01-login.png" alt="Login screen"></td>
-    <td width="50%"><b>Dashboard</b><br><img src="Doc/02-dashboard.png" alt="Dashboard"></td>
+    <td width="50%"><b>Login</b><br><img src="/Code/Doc/01-login.png" alt="Login screen"></td>
+    <td width="50%"><b>Dashboard</b><br><img src="/Code/Doc/02-dashboard.png" alt="Dashboard"></td>
   </tr>
   <tr>
-    <td width="50%"><b>Car Management</b><br><img src="Doc/03-car-management.png" alt="Car management"></td>
-    <td width="50%"><b>Customer Management</b><br><img src="Doc/04-customer-management.png" alt="Customer management"></td>
+    <td width="50%"><b>Car Management</b><br><img src="/Code/Doc/03-car-management.png" alt="Car management"></td>
+    <td width="50%"><b>Customer Management</b><br><img src="/Code/Doc/04-customer-management.png" alt="Customer management"></td>
   </tr>
   <tr>
-    <td width="50%"><b>Payments / Billing</b><br><img src="Doc/05-payments.png" alt="Payments"></td>
-    <td width="50%"><b>Rental (Booking) Management</b><br><img src="Doc/06-Rental (Booking) Management.png" alt="Rental"></td>
+    <td width="50%"><b>Payments / Billing</b><br><img src="/Code/Doc/05-payments.png" alt="Payments"></td>
+    <td width="50%"><b>Rental (Booking) Management</b><br><img src="/Code/Doc/06-Rental (Booking) Management.png" alt="Rental"></td>
   </tr>
 </table>
 
