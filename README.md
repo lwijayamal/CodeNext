@@ -36,7 +36,7 @@ Manage cars, customers, rentals, payments, maintenance, employees and suppliers 
 
 ## 🎥 Demo video
 
-▶️ **[Watch the 5-minute demo on YouTube](https://youtube.com/@propixlk?si=Xd8hwVUlOSACyApk)**
+▶️ **[Watch the 5-minute demo on YouTube](https://youtu.be/K08_E4DM4Rw?si=bQ0GHBOW7gqkRvpv)**
 
 ## ✨ Features
 
@@ -152,13 +152,13 @@ erDiagram
 | _Member 2_ | _XX/XXXX_ | _e.g. Login & Main form_ |
 | _Member 3_ | _XX/XXXX_ | _e.g. Car & Customer modules_ |
 | _Member 4_ | _XX/XXXX_ | _e.g. Rental & Payment modules_ |
-| _Member 5_ | _XX/XXXX_ | _e.g. Maintenance, Employee & Supplier modules_ |-->
+| _Member 5_ | _XX/XXXX_ | _e.g. Maintenance, Employee & Supplier modules_ |
 
 ## 📄 Documentation
 
-See more details on the [Report](https://drive.google.com/uc?export=download&id=YOUR_FILE_ID).
+See more details on the [Report](https://drive.google.com/uc?export=download&id=1iukT6wYbAr4ynfeDWHYZfvITdjJSGa7i).
 
----
+----->
 
 <div align="center">
 <b>· Team Code Next | 2026 ·</b>
